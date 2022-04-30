@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ChatApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.159" />
+        <entry key="..\:/ChatApp/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.159" />
+        <entry key="..\:/ChatApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.159" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.14947916666666666" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.14947916666666666" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_otp_authentication.xml" value="0.14947916666666666" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_profile.xml" value="0.14947916666666666" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_set_profile.xml" value="0.14947916666666666" />
         <entry key="..\:/ChatApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.259375" />
+        <entry key="..\:/ChatApp/app/src/main/res/layout/activity_update_profile.xml" value="0.259375" />
+        <entry key="..\:/ChatApp/app/src/main/res/menu/menu.xml" value="0.14947916666666666" />
         <entry key="..\:/MyApplication/ChatApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.251" />
         <entry key="..\:/MyApplication/ChatApp/app/src/main/res/drawable/mychatapplogo.xml" value="0.2645" />
         <entry key="..\:/MyApplication/ChatApp/app/src/main/res/drawable/round_button.xml" value="0.246" />
